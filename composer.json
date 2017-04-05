@@ -1,0 +1,16 @@
+{
+    "name": "tsuki/twig",
+    "require-dev": {
+        "twig/twig": "2.3.0"
+    },
+    "authors": [
+        {
+            "name": "Tsukihub",
+            "email": "audeeccher@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "*",
+        "components/jquery": "^3.2"
+    }
+}
